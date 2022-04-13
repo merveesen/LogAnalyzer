@@ -1,0 +1,4 @@
+{"request_identifier":"GET /api/users/{user_id}/count_pending_messages","called":19,"response_time_mean":19.0,"response_time_median":15.0,"dyno_mode":"web.8"}
+{"request_identifier":"GET /api/users/{user_id}/get_messages","called":1,"response_time_mean":26.0,"response_time_median":26.0,"dyno_mode":"web.6"}
+{"request_identifier":"GET /api/users/{user_id}/get_friends_progress","called":6,"response_time_mean":88.5,"response_time_median":73.0,"dyno_mode":"web.1"}
+{"request_identifier":"GET /api/users/{user_id}/get_friends_score","called":12,"response_time_mean":168.41666666666666666666666667,"response_time_median":122.0,"dyno_mode":"web.13"}
